@@ -1,3 +1,12 @@
+## [6.4.0]
+* fix for https://github.com/artflutter/flutter_awesome_select/issues/17
+
+## [6.3.0]
+* licence
+
+## [6.2.0-beta]
+* flutter 3
+
 ## [6.1.2-beta]
 * expose more classes
 
